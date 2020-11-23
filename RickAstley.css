@@ -1,0 +1,124 @@
+body{background-color: #87cefa}
+h4{
+  font-size: 20px;
+}
+
+li {
+dispaly: inline
+}
+
+
+
+.serif {
+  font-family: "Times New Roman", Times, serif;
+}
+
+.center{
+display:inline;
+  margin-right: 2000px;
+  margin-left: auto;
+  width: 30%;
+  float: left;
+  position: relative;
+}
+
+/* Style the top navigation bar */
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+  padding: 20px;
+}
+
+  /* Style the topnav links */
+.topnav a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 190px;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+/* Change color on hover */
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.topnav-style {
+overflow: hidden;
+display: inline;
+}
+
+
+}
+
+
+
+img {
+  position: relative;
+display: block;
+}
+
+.container {
+  max-width: 900px;
+  height: 9000px;
+margin: 0 auto;
+left: 125px;
+background-color: #AFEEEE;
+}
+
+.farver {
+  color: rgb(70, 130, 180)
+}
+
+.farvertilCoffindance {
+  color: rgb(70, 130, 1 80);
+}
+
+.fontEx {
+position: relative;
+font-family: cursive;
+font-weight: normal;
+font-style: italic;
+word-spacing: inherit;
+text-transform: uppercase;
+text-align:;
+line-height: 2;
+left: 100px;
+}
+
+.Memes {
+position: relative;
+left: 300px
+
+}
+
+.header1 {
+  float: left;
+  width: 230px;
+  height:230px;
+  background #555;
+
+}
+
+.header2 {
+  position: relative;
+  top: 45px
+  left:100px
+
+}
+
+
+
+
+
+    @@media only screen and (max-width: 320) and (orientation:landscape) {
+      .bluebox {
+        background: Red;
+      }
+      .container{
+        background: Red;
+      }
+    }
